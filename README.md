@@ -1,1 +1,3 @@
-# r-learning
+# R
+# SQL
+# PYTHON
