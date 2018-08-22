@@ -1,16 +1,3 @@
-i<-5
-is.integer(i)
-i<-5L
-is.integer(i)
-class(2*2L)
-class(6L/2L)
-class(6L*2L)
-?factor
-x<-"data"
-y<-"3"
-x
-y
-
 
 ## FACTOR
 x<-factor("data")
