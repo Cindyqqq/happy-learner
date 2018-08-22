@@ -1,3 +1,1 @@
-# R
-# SQL
-# PYTHON
+# R, SQL, PYTHON
