@@ -1,1 +1,3 @@
+1. PCA is a means of taking linear combinations of variables, in such a way that they are uncorrelated.
+2. PCA is a way to combine variables so that the first component has maximal variance, the second one has the next maximal variance, and so forth.
 
